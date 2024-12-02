@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:snapchat_clone/models/providers/navbar.dart';
-import 'package:snapchat_clone/models/navbar/navbar.dart';
+import 'package:snapchat_clone/controllers/providers/navbar.dart';
+import 'package:snapchat_clone/models/widgets/navbar/navbar.dart';
 
 class BottomNavbar extends ConsumerStatefulWidget {
   const BottomNavbar({super.key});

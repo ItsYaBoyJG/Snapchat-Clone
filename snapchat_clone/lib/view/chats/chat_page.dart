@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:snapchat_clone/models/json/get_profile_pic.dart';
-import 'package:snapchat_clone/models/providers/user.dart';
+import 'package:snapchat_clone/controllers/providers/user.dart';
 import 'package:snapchat_clone/models/json/get_chat_data.dart';
 import 'package:snapchat_clone/models/user/user_model.dart';
 import 'package:snapchat_clone/view/profile/avatar/avatar.dart';

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:snapchat_clone/models/providers/user.dart';
+import 'package:snapchat_clone/controllers/providers/user.dart';
 import 'package:snapchat_clone/models/message/message_model.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 

@@ -24,6 +24,7 @@ dependencies:
 
   json_serializable: ^6.8.0
 
+  google_maps_flutter: ^2.10.0
 
   #flutter_riverpod: ^2.6.1
   hooks_riverpod: ^2.6.1

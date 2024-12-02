@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:snapchat_clone/models/buttons/fab/expandable_comp.dart';
-import 'package:snapchat_clone/models/theme/app_theme.dart';
+import 'package:snapchat_clone/models/widgets/buttons/fab/expandable_comp.dart';
+import 'package:snapchat_clone/utils/theme/app_theme.dart';
 
 ///  floating expandable action button code
 //TODO: find a way to close button on navigation and button press

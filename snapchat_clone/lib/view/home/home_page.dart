@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
-import 'package:snapchat_clone/models/providers/navbar.dart';
+import 'package:snapchat_clone/controllers/providers/navbar.dart';
 import 'package:snapchat_clone/view/chats/chat_page.dart';
 import 'package:snapchat_clone/view/discover/discover.dart';
 import 'package:snapchat_clone/view/home/bottom_navbar.dart';

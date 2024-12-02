@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:snapchat_clone/models/theme/app_theme.dart';
+import 'package:snapchat_clone/utils/theme/app_theme.dart';
 
 class FABIcon extends StatelessWidget {
   const FABIcon(

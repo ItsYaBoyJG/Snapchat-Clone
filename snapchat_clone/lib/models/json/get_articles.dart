@@ -9,10 +9,9 @@ class GetArticles {
   Future<List<News>> loadArticles() async {
     final String response = await rootBundle.loadString(_filepath);
     final data = json.decode(response);
-    var articlesFromJson =
-        (data['articles'] as List).cast<Map<String, dynamic>>();
+    var articlesFromJson = data['articles'] as List;
     return articlesFromJson
-        .map<News>((articlesFromJson) => News.fromJson(articlesFromJson))
+        .map((articlesFromJson) => News.fromJson(articlesFromJson))
         .toList();
   }
 }
