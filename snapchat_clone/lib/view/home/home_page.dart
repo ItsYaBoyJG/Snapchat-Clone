@@ -5,6 +5,7 @@ import 'package:snapchat_clone/controllers/providers/navbar.dart';
 import 'package:snapchat_clone/view/chats/chat_page.dart';
 import 'package:snapchat_clone/view/discover/discover.dart';
 import 'package:snapchat_clone/view/home/bottom_navbar.dart';
+import 'package:snapchat_clone/view/map/map_page.dart';
 
 class HomePage extends ConsumerStatefulWidget {
   const HomePage({super.key});
@@ -22,9 +23,9 @@ class _HomePageState extends ConsumerState<HomePage> {
     return Scaffold(
         body: IndexedStack(
           index: currentIndex,
-          children: [ChatPage(), DiscoverPage()],
+          children: const [ChatPage(), MapPage(), DiscoverPage()],
         ),
-        floatingActionButton: GestureDetector(
+        /*   floatingActionButton: GestureDetector(
           child: Container(
             height: 100.0,
             width: 100.0,
@@ -40,8 +41,8 @@ class _HomePageState extends ConsumerState<HomePage> {
             //TODO: add camera open function here
             context.push('/camera');
           },
-        ),
-        floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat,
+        ), */
+        //   floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat,
         bottomNavigationBar: const BottomNavbar());
   }
 }

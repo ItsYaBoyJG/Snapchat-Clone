@@ -21,7 +21,11 @@
                     "timestamp": "2024-10-29T11:03:07.719139"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/women/85.jpg"
+            "avatar": "https://randomuser.me/api/portraits/women/85.jpg",
+            "last_known_location": {
+                "latitude": 39.7749,
+                "longitude": -102.4194
+            }
         },
         {
             "username": "user_1",
@@ -40,7 +44,11 @@
                     "timestamp": "2024-10-31T02:42:07.719172"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/men/17.jpg"
+            "avatar": "https://randomuser.me/api/portraits/men/17.jpg",
+            "last_known_location": {
+                "latitude": 37.7749,
+                "longitude": 122.4194
+            }
         },
         {
             "username": "user_2",
@@ -63,7 +71,11 @@
                     "timestamp": "2024-11-11T09:19:07.719217"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/men/64.jpg"
+            "avatar": "https://randomuser.me/api/portraits/men/64.jpg",
+            "last_known_location": {
+                "latitude": 37.7749,
+                "longitude": -34.4194
+            }
         },
         {
             "username": "user_3",
@@ -78,7 +90,11 @@
                     "timestamp": "2024-11-03T09:15:07.719240"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/women/45.jpg"
+            "avatar": "https://randomuser.me/api/portraits/women/45.jpg",
+            "last_known_location": {
+                "latitude": 37.7749,
+                "longitude": -122.4194
+            }
         },
         {
             "username": "user_4",
@@ -93,7 +109,11 @@
                     "timestamp": "2024-11-10T02:38:07.719262"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/women/8.jpg"
+            "avatar": "https://randomuser.me/api/portraits/women/8.jpg",
+            "last_known_location": {
+                "latitude": 137.7749,
+                "longitude": -122.4194
+            }
         },
         {
             "username": "user_5",
@@ -120,7 +140,11 @@
                     "timestamp": "2024-10-23T19:21:07.719316"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/men/98.jpg"
+            "avatar": "https://randomuser.me/api/portraits/men/98.jpg",
+            "last_known_location": {
+              "latitude": 99.0522,
+              "longitude": -118.2437
+            }
         },
         {
             "username": "user_6",
@@ -135,7 +159,11 @@
                     "timestamp": "2024-10-19T16:53:07.719339"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/women/92.jpg"
+            "avatar": "https://randomuser.me/api/portraits/women/92.jpg",
+            "last_known_location": {
+              "latitude": 76.0522,
+              "longitude": -118.2437
+            }
         },
         {
             "username": "user_7",
@@ -154,7 +182,11 @@
                     "timestamp": "2024-11-08T22:10:07.719372"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/women/96.jpg"
+            "avatar": "https://randomuser.me/api/portraits/women/96.jpg",
+            "last_known_location": {
+              "latitude": 41.0522,
+              "longitude": -118.2437
+            }
         },
         {
             "username": "user_8",
@@ -181,7 +213,11 @@
                     "timestamp": "2024-11-11T13:11:07.719417"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/men/7.jpg"
+            "avatar": "https://randomuser.me/api/portraits/men/7.jpg",
+            "last_known_location": {
+              "latitude": 4.0522,
+              "longitude": -118.2437
+            }
         },
         {
             "username": "user_9",
@@ -200,7 +236,11 @@
                     "timestamp": "2024-10-25T03:31:07.719552"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/men/3.jpg"
+            "avatar": "https://randomuser.me/api/portraits/men/3.jpg",
+            "last_known_location": {
+              "latitude": 14.0522,
+              "longitude": -118.2437
+            }
         },
         {
             "username": "user_10",
@@ -223,7 +263,11 @@
                     "timestamp": "2024-11-07T15:03:07.719591"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/women/67.jpg"
+            "avatar": "https://randomuser.me/api/portraits/women/67.jpg",
+            "last_known_location": {
+              "latitude": 34.0522,
+              "longitude": -38.2437
+            }
         },
         {
             "username": "user_11",
@@ -238,7 +282,11 @@
                     "timestamp": "2024-10-29T18:33:07.719613"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/women/13.jpg"
+            "avatar": "https://randomuser.me/api/portraits/women/13.jpg",
+            "last_known_location": {
+              "latitude": 64.0522,
+              "longitude": -118.2437
+            }
         },
         {
             "username": "user_12",
@@ -265,7 +313,11 @@
                     "timestamp": "2024-11-04T00:35:07.719659"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/men/86.jpg"
+            "avatar": "https://randomuser.me/api/portraits/men/86.jpg",
+            "last_known_location": {
+              "latitude": 34.0522,
+              "longitude": -98.2437
+            }
         },
         {
             "username": "user_13",
@@ -276,7 +328,11 @@
                     "timestamp": "2024-10-22T01:31:07.719672"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/men/42.jpg"
+            "avatar": "https://randomuser.me/api/portraits/men/42.jpg",
+            "last_known_location": {
+              "latitude": 38.0522,
+              "longitude": 118.2437
+            }
         },
         {
             "username": "user_14",
@@ -291,7 +347,11 @@
                     "timestamp": "2024-11-05T19:32:07.719694"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/men/34.jpg"
+            "avatar": "https://randomuser.me/api/portraits/men/34.jpg",
+            "last_known_location": {
+              "latitude": 24.0522,
+              "longitude": -111.2437
+            }
         },
         {
             "username": "user_15",
@@ -314,7 +374,11 @@
                     "timestamp": "2024-10-16T00:23:07.719732"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/men/92.jpg"
+            "avatar": "https://randomuser.me/api/portraits/men/92.jpg",
+            "last_known_location": {
+              "latitude": 4.0522,
+              "longitude": -18.2437
+            }
         },
         {
             "username": "user_16",
@@ -341,7 +405,11 @@
                     "timestamp": "2024-10-12T00:16:07.719777"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/women/68.jpg"
+            "avatar": "https://randomuser.me/api/portraits/women/68.jpg",
+            "last_known_location": {
+              "latitude": 34.0522,
+              "longitude": -108.2437
+            }
         },
         {
             "username": "user_17",
@@ -352,7 +420,11 @@
                     "timestamp": "2024-10-22T18:17:07.719790"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/men/27.jpg"
+            "avatar": "https://randomuser.me/api/portraits/men/27.jpg",
+            "last_known_location": {
+              "latitude": 34.0522,
+              "longitude": -123.2437
+            }
         },
         {
             "username": "user_18",
@@ -367,7 +439,11 @@
                     "timestamp": "2024-10-27T23:21:07.719810"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/women/43.jpg"
+            "avatar": "https://randomuser.me/api/portraits/women/43.jpg",
+            "last_known_location": {
+              "latitude": 74.0522,
+              "longitude": -118.2437
+            }
         },
         {
             "username": "user_19",
@@ -386,7 +462,11 @@
                     "timestamp": "2024-10-13T23:47:07.719833"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/men/63.jpg"
+            "avatar": "https://randomuser.me/api/portraits/men/63.jpg",
+            "last_known_location": {
+              "latitude": 114.0522,
+              "longitude": 118.2437
+            }
         },
         {
             "username": "user_20",
@@ -405,7 +485,11 @@
                     "timestamp": "2024-10-26T20:24:07.719856"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/men/94.jpg"
+            "avatar": "https://randomuser.me/api/portraits/men/94.jpg",
+            "last_known_location": {
+              "latitude": 54.0522,
+              "longitude": 118.2437
+            }
         },
         {
             "username": "user_21",
@@ -424,7 +508,11 @@
                     "timestamp": "2024-10-16T05:48:07.719879"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/women/29.jpg"
+            "avatar": "https://randomuser.me/api/portraits/women/29.jpg",
+            "last_known_location": {
+              "latitude": -34.0522,
+              "longitude": 118.2437
+            }
         },
         {
             "username": "user_22",
@@ -451,7 +539,11 @@
                     "timestamp": "2024-10-12T03:36:07.719928"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/women/29.jpg"
+            "avatar": "https://randomuser.me/api/portraits/women/29.jpg",
+            "last_known_location": {
+              "latitude": 34.0522,
+              "longitude": -118.2437
+            }
         },
         {
             "username": "user_23",
@@ -478,7 +570,11 @@
                     "timestamp": "2024-11-11T15:21:07.719964"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/women/97.jpg"
+            "avatar": "https://randomuser.me/api/portraits/women/97.jpg",
+            "last_known_location": {
+              "latitude": 9.5074,
+              "longitude": 0.1278
+            }
         },
         {
             "username": "user_24",
@@ -497,7 +593,11 @@
                     "timestamp": "2024-11-09T22:47:07.719989"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/women/32.jpg"
+            "avatar": "https://randomuser.me/api/portraits/women/32.jpg",
+            "last_known_location": {
+              "latitude": 77.5074,
+              "longitude": 76.1278
+            }
         },
         {
             "username": "user_25",
@@ -516,7 +616,11 @@
                     "timestamp": "2024-10-30T23:08:07.720018"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/women/60.jpg"
+            "avatar": "https://randomuser.me/api/portraits/women/60.jpg",
+            "last_known_location": {
+              "latitude": 44.5074,
+              "longitude": 44.1278
+            }
         },
         {
             "username": "user_26",
@@ -531,7 +635,11 @@
                     "timestamp": "2024-10-22T23:41:07.720039"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/women/2.jpg"
+            "avatar": "https://randomuser.me/api/portraits/women/2.jpg",
+            "last_known_location": {
+              "latitude": 77.5074,
+              "longitude": -33.1278
+            }
         },
         {
             "username": "user_27",
@@ -554,7 +662,11 @@
                     "timestamp": "2024-11-11T12:16:07.720077"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/women/96.jpg"
+            "avatar": "https://randomuser.me/api/portraits/women/96.jpg",
+            "last_known_location": {
+              "latitude": 12.5074,
+              "longitude": -44.1278
+            }
         },
         {
             "username": "user_28",
@@ -581,7 +693,11 @@
                     "timestamp": "2024-11-08T12:42:07.720121"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/men/66.jpg"
+            "avatar": "https://randomuser.me/api/portraits/men/66.jpg",
+            "last_known_location": {
+              "latitude": 51.5074,
+              "longitude": 51.1278
+            }
         },
         {
             "username": "user_29",
@@ -592,7 +708,11 @@
                     "timestamp": "2024-10-18T01:33:07.720136"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/women/98.jpg"
+            "avatar": "https://randomuser.me/api/portraits/women/98.jpg",
+            "last_known_location": {
+              "latitude": 76.5074,
+              "longitude": -4.1278
+            }
         },
         {
             "username": "user_30",
@@ -611,7 +731,11 @@
                     "timestamp": "2024-10-14T11:18:07.720171"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/women/48.jpg"
+            "avatar": "https://randomuser.me/api/portraits/women/48.jpg",
+            "last_known_location": {
+              "latitude": 51.5074,
+              "longitude": 76.1278
+            }
         },
         {
             "username": "user_31",
@@ -622,7 +746,11 @@
                     "timestamp": "2024-11-07T15:34:07.720184"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/women/81.jpg"
+            "avatar": "https://randomuser.me/api/portraits/women/81.jpg",
+            "last_known_location": {
+              "latitude": 51.5074,
+              "longitude": -9.1278
+            }
         },
         {
             "username": "user_32",
@@ -637,7 +765,11 @@
                     "timestamp": "2024-10-29T16:54:07.720209"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/women/92.jpg"
+            "avatar": "https://randomuser.me/api/portraits/women/92.jpg",
+            "last_known_location": {
+              "latitude": 41.5074,
+              "longitude": -0.1278
+            }
         },
         {
             "username": "user_33",
@@ -648,7 +780,11 @@
                     "timestamp": "2024-10-18T21:43:07.720223"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/women/26.jpg"
+            "avatar": "https://randomuser.me/api/portraits/women/26.jpg",
+            "last_known_location": {
+              "latitude": 57.5074,
+              "longitude": -1.1278
+            }
         },
         {
             "username": "user_34",
@@ -663,7 +799,11 @@
                     "timestamp": "2024-10-18T19:01:07.720244"
                 }
             ],
-            "avatar": "https://randomuser.me/api/portraits/women/83.jpg"
+            "avatar": "https://randomuser.me/api/portraits/women/83.jpg",
+            "last_known_location": {
+              "latitude": 55.5074,
+              "longitude": -10.1278
+            }
         },
         {
             "username": "user_35",

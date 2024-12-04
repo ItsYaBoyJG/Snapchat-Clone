@@ -13,15 +13,16 @@ class ProfileAvatar extends StatefulWidget {
 class _ProfileAvatarState extends State<ProfileAvatar> {
   final GetProfilePic _getProfilePic = GetProfilePic();
 
+  final _image = 'assets/images/profile_pic.jpg';
+
   @override
   Widget build(BuildContext context) {
     return FutureBuilder(
         future: _getProfilePic.loadProfilePicture(),
         builder: (context, snapshot) {
-          print(snapshot.data);
           if (snapshot.hasData &&
               snapshot.connectionState == ConnectionState.done) {
-            ProfilePicture p = snapshot.data!.first;
+            ;
             return GestureDetector(
               onTap: () {
                 context.push('/profile');
@@ -31,12 +32,23 @@ class _ProfileAvatarState extends State<ProfileAvatar> {
                     //p.image != ''
                     //   ? NetworkImage(p.image)
                     //   :
-                    Image.asset(p.image).image,
+                    Image.asset('${snapshot.data!.first}').image,
               ),
             );
           } else if (snapshot.data == null ||
               snapshot.connectionState == ConnectionState.none) {
-            return Text('null');
+            return GestureDetector(
+              onTap: () {
+                context.push('/profile');
+              },
+              child: CircleAvatar(
+                backgroundImage:
+                    //p.image != ''
+                    //   ? NetworkImage(p.image)
+                    //   :
+                    Image.asset(_image).image,
+              ),
+            );
           }
 
           return const CircularProgressIndicator();

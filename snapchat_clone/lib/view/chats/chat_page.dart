@@ -24,6 +24,10 @@ class _ChatPageState extends ConsumerState<ChatPage> {
     return Scaffold(
         appBar: AppBar(
           title: const Text('Chats'),
+          leading: IconButton(
+            onPressed: () {},
+            icon: const Icon(Icons.camera),
+          ),
           actions: const [ProfileAvatar()],
         ),
         // backgroundColor: Colors.cyan,
@@ -76,6 +80,7 @@ class _ChatPageState extends ConsumerState<ChatPage> {
                 );
               } else if (snapshot.connectionState == ConnectionState.none ||
                   snapshot.data == null) {
+                print(snapshot.error);
                 return Center(
                   child: Text('error'),
                 );

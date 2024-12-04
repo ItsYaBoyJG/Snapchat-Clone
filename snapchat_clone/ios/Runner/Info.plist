@@ -49,5 +49,7 @@
 	<string>In order to take a photo or video, this app needs permission to use your camera.</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>In order to record a video with audio, this app needs permission to your microphone.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app needs access to your location while in use in order to operate correctly.</string>
 </dict>
 </plist>
